@@ -1,4 +1,20 @@
 {
+  "CF143591204": {
+    "contest_id": 427,
+    "language": "Java 8",
+    "path": "codeforces\\427\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Police Recruits",
+    "problem_url": "https://codeforces.com/contest/427/problem/A",
+    "submission_id": "CF143591204",
+    "submission_url": "https://codeforces.com/contest/427/submission/143591204",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2022 00:07"
+  },
   "CF143758882": {
     "contest_id": 1399,
     "language": "Java 8",
