@@ -1,4 +1,20 @@
 {
+  "CF143885978": {
+    "contest_id": 703,
+    "language": "Java 8",
+    "path": "codeforces\\703\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mishka and Game",
+    "problem_url": "https://codeforces.com/contest/703/problem/A",
+    "submission_id": "CF143885978",
+    "submission_url": "https://codeforces.com/contest/703/submission/143885978",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2022 06:45"
+  },
   "CF144137670": {
     "contest_id": 1352,
     "language": "Java 8",
