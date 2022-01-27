@@ -1,4 +1,21 @@
 {
+  "CF144139293": {
+    "contest_id": 1512,
+    "language": "Java 8",
+    "path": "codeforces\\1512\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF144139293",
+    "submission_url": "https://codeforces.com/contest/1512/submission/144139293",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/27/2022 00:43"
+  },
   "CF144320170": {
     "contest_id": 723,
     "language": "Java 8",
