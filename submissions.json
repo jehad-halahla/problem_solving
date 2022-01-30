@@ -1,4 +1,21 @@
 {
+  "CF144505186": {
+    "contest_id": 1360,
+    "language": "Java 8",
+    "path": "codeforces\\1360\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimal Square",
+    "problem_url": "https://codeforces.com/contest/1360/problem/A",
+    "submission_id": "CF144505186",
+    "submission_url": "https://codeforces.com/contest/1360/submission/144505186",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/30/2022 04:59"
+  },
   "CF144509221": {
     "contest_id": 1399,
     "language": "Java 8",
