@@ -1,4 +1,21 @@
 {
+  "CF144772130": {
+    "contest_id": 1433,
+    "language": "Java 8",
+    "path": "codeforces\\1433\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boring Apartments",
+    "problem_url": "https://codeforces.com/contest/1433/problem/A",
+    "submission_id": "CF144772130",
+    "submission_url": "https://codeforces.com/contest/1433/submission/144772130",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2022 10:32"
+  },
   "CF144773500": {
     "contest_id": 749,
     "language": "Java 8",
