@@ -1,4 +1,22 @@
 {
+  "CF144774910": {
+    "contest_id": 381,
+    "language": "Java 8",
+    "path": "codeforces\\381\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF144774910",
+    "submission_url": "https://codeforces.com/contest/381/submission/144774910",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2022 11:06"
+  },
   "CF144777006": {
     "contest_id": 1472,
     "language": "Java 8",
