@@ -1,4 +1,21 @@
 {
+  "CF144726097": {
+    "contest_id": 1360,
+    "language": "Java 8",
+    "path": "codeforces\\1360\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF144726097",
+    "submission_url": "https://codeforces.com/contest/1360/submission/144726097",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2022 07:45"
+  },
   "CF144755295": {
     "contest_id": 1560,
     "language": "Java 8",
