@@ -1,4 +1,23 @@
 {
+  "CF144759834": {
+    "contest_id": 1370,
+    "language": "Java 8",
+    "path": "codeforces\\1370\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum GCD",
+    "problem_url": "https://codeforces.com/contest/1370/problem/A",
+    "submission_id": "CF144759834",
+    "submission_url": "https://codeforces.com/contest/1370/submission/144759834",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2022 08:56"
+  },
   "CF144771123": {
     "contest_id": 151,
     "language": "Java 8",
