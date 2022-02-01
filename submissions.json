@@ -1,4 +1,21 @@
 {
+  "CF144873562": {
+    "contest_id": 32,
+    "language": "Java 8",
+    "path": "codeforces\\32\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Borze",
+    "problem_url": "https://codeforces.com/contest/32/problem/B",
+    "submission_id": "CF144873562",
+    "submission_url": "https://codeforces.com/contest/32/submission/144873562",
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/01/2022 10:05"
+  },
   "CF144874833": {
     "contest_id": 630,
     "language": "Java 8",
