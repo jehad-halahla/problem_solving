@@ -1,4 +1,21 @@
 {
+  "CF144982650": {
+    "contest_id": 9,
+    "language": "Java 8",
+    "path": "codeforces\\9\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF144982650",
+    "submission_url": "https://codeforces.com/contest/9/submission/144982650",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Feb/02/2022 15:23"
+  },
   "CF144982888": {
     "contest_id": 1624,
     "language": "Java 8",
