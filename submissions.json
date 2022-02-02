@@ -1,4 +1,22 @@
 {
+  "CF144982010": {
+    "contest_id": 1520,
+    "language": "Java 8",
+    "path": "codeforces\\1520\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ordinary Numbers",
+    "problem_url": "https://codeforces.com/contest/1520/problem/B",
+    "submission_id": "CF144982010",
+    "submission_url": "https://codeforces.com/contest/1520/submission/144982010",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/02/2022 14:50"
+  },
   "CF144982650": {
     "contest_id": 9,
     "language": "Java 8",
