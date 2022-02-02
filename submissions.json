@@ -1,4 +1,20 @@
 {
+  "CF144982888": {
+    "contest_id": 1624,
+    "language": "Java 8",
+    "path": "codeforces\\1624\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plus One on the Subset",
+    "problem_url": "https://codeforces.com/contest/1624/problem/A",
+    "submission_id": "CF144982888",
+    "submission_url": "https://codeforces.com/contest/1624/submission/144982888",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/02/2022 15:34"
+  },
   "CF145043807": {
     "contest_id": 935,
     "language": "Java 8",
