@@ -1,4 +1,21 @@
 {
+  "CF145050791": {
+    "contest_id": 1369,
+    "language": "Java 8",
+    "path": "codeforces\\1369\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "FashionabLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/A",
+    "submission_id": "CF145050791",
+    "submission_url": "https://codeforces.com/contest/1369/submission/145050791",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2022 07:40"
+  },
   "CF145147637": {
     "contest_id": 1472,
     "language": "Java 8",
