@@ -1,4 +1,20 @@
 {
+  "CF145159474": {
+    "contest_id": 1385,
+    "language": "Java 8",
+    "path": "codeforces\\1385\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore the Permutation by Merger",
+    "problem_url": "https://codeforces.com/contest/1385/problem/B",
+    "submission_id": "CF145159474",
+    "submission_url": "https://codeforces.com/contest/1385/submission/145159474",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/04/2022 09:51"
+  },
   "CF145306466": {
     "contest_id": 1385,
     "language": "Java 8",
