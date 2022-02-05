@@ -12,6 +12,9 @@ public class Main{
 				System.out.println("YES");
 				System.out.println(a[0] +" "+ a[1] + " " + a[2] );
 			}
+			else if(a[0] == a[1] && a[2] > a[1]){
+				System.out.println("NO");
+			}
 			else if(a[0] < a[1] && a[1] == a[2]){
 				System.out.println("YES");
 				if(a[0] == 1 )
