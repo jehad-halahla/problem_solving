@@ -1,4 +1,20 @@
 {
+  "CF145684121": {
+    "contest_id": 1296,
+    "language": "Java 8",
+    "path": "codeforces\\1296\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array with Odd Sum",
+    "problem_url": "https://codeforces.com/contest/1296/problem/A",
+    "submission_id": "CF145684121",
+    "submission_url": "https://codeforces.com/contest/1296/submission/145684121",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/08/2022 10:48"
+  },
   "CF145686265": {
     "contest_id": 1579,
     "language": "Java 8",
