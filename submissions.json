@@ -1,4 +1,21 @@
 {
+  "CF145686265": {
+    "contest_id": 1579,
+    "language": "Java 8",
+    "path": "codeforces\\1579\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Casimir's String Solitaire",
+    "problem_url": "https://codeforces.com/contest/1579/problem/A",
+    "submission_id": "CF145686265",
+    "submission_url": "https://codeforces.com/contest/1579/submission/145686265",
+    "tags": [
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/08/2022 11:16"
+  },
   "CF145889251": {
     "contest_id": 731,
     "language": "Java 8",
