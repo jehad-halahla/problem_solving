@@ -1,4 +1,20 @@
 {
+  "CF146678737": {
+    "contest_id": 80,
+    "language": "Java 8",
+    "path": "codeforces\\80\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Panoramix's Prediction",
+    "problem_url": "https://codeforces.com/contest/80/problem/A",
+    "submission_id": "CF146678737",
+    "submission_url": "https://codeforces.com/contest/80/submission/146678737",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Feb/16/2022 15:34"
+  },
   "CF151516749": {
     "contest_id": 1660,
     "language": "Java 8",
