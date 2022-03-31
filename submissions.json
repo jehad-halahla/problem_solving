@@ -1,4 +1,20 @@
 {
+  "CF151562053": {
+    "contest_id": 1660,
+    "language": "Java 8",
+    "path": "codeforces\\1660\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vlad and Candies",
+    "problem_url": "https://codeforces.com/contest/1660/problem/B",
+    "submission_id": "CF151562053",
+    "submission_url": "https://codeforces.com/contest/1660/submission/151562053",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/31/2022 08:44"
+  },
   "CF152357058": {
     "contest_id": 1663,
     "language": "Java 8",
