@@ -1,4 +1,20 @@
 {
+  "CF152848253": {
+    "contest_id": 1542,
+    "language": "Java 8",
+    "path": "codeforces\\1542\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Set",
+    "problem_url": "https://codeforces.com/contest/1542/problem/A",
+    "submission_id": "CF152848253",
+    "submission_url": "https://codeforces.com/contest/1542/submission/152848253",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2022 05:46"
+  },
   "CF152848905": {
     "contest_id": 1325,
     "language": "Java 8",
