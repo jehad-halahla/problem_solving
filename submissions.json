@@ -1,4 +1,21 @@
 {
+  "CF152843978": {
+    "contest_id": 1462,
+    "language": "Java 8",
+    "path": "codeforces\\1462\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Favorite Sequence",
+    "problem_url": "https://codeforces.com/contest/1462/problem/A",
+    "submission_id": "CF152843978",
+    "submission_url": "https://codeforces.com/contest/1462/submission/152843978",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2022 04:57"
+  },
   "CF152846492": {
     "contest_id": 1619,
     "language": "Java 8",
