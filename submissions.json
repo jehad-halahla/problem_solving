@@ -1,4 +1,21 @@
 {
+  "CF152848905": {
+    "contest_id": 1325,
+    "language": "Java 8",
+    "path": "codeforces\\1325\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "CopyCopyCopyCopyCopy",
+    "problem_url": "https://codeforces.com/contest/1325/problem/B",
+    "submission_id": "CF152848905",
+    "submission_url": "https://codeforces.com/contest/1325/submission/152848905",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2022 05:54"
+  },
   "CF153343162": {
     "contest_id": 1538,
     "language": "Java 8",
