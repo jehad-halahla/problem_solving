@@ -1,4 +1,21 @@
 {
+  "CF152825285": {
+    "contest_id": 1348,
+    "language": "Java 8",
+    "path": "codeforces\\1348\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phoenix and Balance",
+    "problem_url": "https://codeforces.com/contest/1348/problem/A",
+    "submission_id": "CF152825285",
+    "submission_url": "https://codeforces.com/contest/1348/submission/152825285",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2022 00:37"
+  },
   "CF152843978": {
     "contest_id": 1462,
     "language": "Java 8",
