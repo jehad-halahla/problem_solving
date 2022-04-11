@@ -1,4 +1,22 @@
 {
+  "CF153343162": {
+    "contest_id": 1538,
+    "language": "Java 8",
+    "path": "codeforces\\1538\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stone Game",
+    "problem_url": "https://codeforces.com/contest/1538/problem/A",
+    "submission_id": "CF153343162",
+    "submission_url": "https://codeforces.com/contest/1538/submission/153343162",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2022 19:25"
+  },
   "CF154795857": {
     "contest_id": 1337,
     "language": "Java 8",
