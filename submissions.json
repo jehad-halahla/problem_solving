@@ -1,4 +1,22 @@
 {
+  "CF163407830": {
+    "contest_id": 1700,
+    "language": "Python 3",
+    "path": "codeforces\\1700\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Optimal Path",
+    "problem_url": "https://codeforces.com/contest/1700/problem/A",
+    "submission_id": "CF163407830",
+    "submission_url": "https://codeforces.com/contest/1700/submission/163407830",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/09/2022 13:07"
+  },
   "CF163408324": {
     "contest_id": 1699,
     "language": "Python 3",
