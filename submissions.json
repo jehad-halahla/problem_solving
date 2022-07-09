@@ -1,4 +1,21 @@
 {
+  "CF163409276": {
+    "contest_id": 1698,
+    "language": "Python 3",
+    "path": "codeforces\\1698\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "XOR Mixup",
+    "problem_url": "https://codeforces.com/contest/1698/problem/A",
+    "submission_id": "CF163409276",
+    "submission_url": "https://codeforces.com/contest/1698/submission/163409276",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jul/09/2022 13:45"
+  },
   "CF163593715": {
     "contest_id": 4,
     "language": "GNU C11",
