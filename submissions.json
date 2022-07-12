@@ -1,0 +1,19 @@
+{
+  "CF163889362": {
+    "contest_id": 1703,
+    "language": "Java 8",
+    "path": "codeforces\\1703\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cypher",
+    "problem_url": "https://codeforces.com/contest/1703/problem/C",
+    "submission_id": "CF163889362",
+    "submission_url": "https://codeforces.com/contest/1703/submission/163889362",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/12/2022 08:38"
+  }
+}
