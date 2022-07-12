@@ -1,4 +1,21 @@
 {
+  "CF163845370": {
+    "contest_id": 1703,
+    "language": "Java 8",
+    "path": "codeforces\\1703\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "YES or YES?",
+    "problem_url": "https://codeforces.com/contest/1703/problem/A",
+    "submission_id": "CF163845370",
+    "submission_url": "https://codeforces.com/contest/1703/submission/163845370",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/12/2022 07:54"
+  },
   "CF163861512": {
     "contest_id": 1703,
     "language": "Java 8",
