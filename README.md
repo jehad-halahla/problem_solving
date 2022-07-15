@@ -1,10 +1,10 @@
 Submissions
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+> *Auto-generated using [Harwest](https://github.com/nileshsah/harwest-tool)*
 
 ## Introduction
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
+This is a repository to keep track of problem solving practice, containing solutions from following platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/Jehad_halahla.svg)](https://codeforces.com/profile/Jehad_halahla)
 
 
